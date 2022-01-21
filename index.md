@@ -1,3 +1,6 @@
+---
+title: PsBuilder 1
+---
 PsBuilder (a.k.a. PoshBuilder or PWSHBuilder) is a simple, free, and open source tool for building any PowerShell
 module or script. It was originally created in January 2022, under the BSD
 3-Clause license.
